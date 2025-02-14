@@ -5,30 +5,37 @@ from ebird.codes.locations import (
 )
 
 
-def test_is_subnational1_code():
+def test_subnational1_code__returns_true():
     assert is_subnational1_code("US-NV") is True
 
 
-def test_invalid_code_is_not_subnational1():
-    assert is_subnational1_code("U") is False
+def test_invalid_code__returns_false():
     assert is_subnational1_code("US-") is False
 
 
-def test_country_is_not_subnational1():
+def test_country_code__returns_false():
     assert is_subnational1_code("US") is False
 
 
-def test_subnational2_is_not_subnational1():
+def test_subnational2_code__returns_false():
     assert is_subnational1_code("US-NV-VMT") is False
 
 
-def test_location_is_not_subnational1():
+def test_location_code__returns_false():
     assert is_subnational1_code("L123456") is False
 
 
-def test_is_state_code_alias():
+def test_state_alias__subnational1_code__returns_true():
     assert is_state_code("US-NV") is True
 
 
-def test_is_region_code_alias():
+def test_state_alias__subnational2_code__returns_false():
+    assert is_state_code("US-NV-VMT") is False
+
+
+def test_region_alias__subnational1_code__returns_true():
     assert is_region_code("US-NV") is True
+
+
+def test_region_alias__subnational2_code__returns_false():
+    assert is_region_code("US-NV-VMT") is False
