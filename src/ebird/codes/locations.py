@@ -51,4 +51,4 @@ def is_region_code(code: str) -> bool:
 def is_county_code(code: str) -> bool:
     """An alias for is_subnational2_code, since working with counties is easier
     for some countries."""
-    return is_subnational2_code(code) is not None
+    return is_subnational2_code(code)

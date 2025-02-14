@@ -23,3 +23,7 @@ def test_location_is_not_subnational2():
 
 def test_is_county_code_alias():
     assert is_county_code("US-NV-11") is True
+
+
+def test_is_county_code__invalid_code__returns_false():
+    assert is_county_code("US-NV") is False
