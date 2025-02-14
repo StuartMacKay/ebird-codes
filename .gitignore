@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[co]
+*.egg*
+
+# Editor temp files
+*~
+
+# Ignore dot files except those required for the project
+.*
+!.env.example
+!.envrc
+!.flake8
+!.gitignore
+!.gitkeep
+!.pre-commit-config.yaml
+!.python-version
+
+# Project artefacts
+build
+dist
+htmlcov

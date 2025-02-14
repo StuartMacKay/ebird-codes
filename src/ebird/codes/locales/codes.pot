@@ -1,0 +1,202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-14 09:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: protocols.py:7
+msgid "Travelling"
+msgstr ""
+
+#: protocols.py:8
+msgid "Stationary"
+msgstr ""
+
+#: protocols.py:9
+msgid "Historical"
+msgstr ""
+
+#: protocols.py:10
+msgid "Incidental"
+msgstr ""
+
+#: protocols.py:11
+msgid "Area"
+msgstr ""
+
+#: protocols.py:12
+msgid "Banding"
+msgstr ""
+
+#: protocols.py:13
+msgid "Pelagic"
+msgstr ""
+
+#: protocols.py:14
+msgid "Nocturnal Flight Call Count"
+msgstr ""
+
+#: protocols.py:15
+msgid "Oiled Birds"
+msgstr ""
+
+#: protocols.py:16
+msgid "Random"
+msgstr ""
+
+#: protocols.py:17
+msgid "TNC California Waterbird Count"
+msgstr ""
+
+#: protocols.py:18
+msgid "CWC Point Count"
+msgstr ""
+
+#: protocols.py:19
+msgid "CWC Area Search"
+msgstr ""
+
+#: protocols.py:20
+msgid "CWC Travelling Count"
+msgstr ""
+
+#: protocols.py:21
+msgid "Rusty Blackbird Spring Migration Blitz"
+msgstr ""
+
+#: protocols.py:22
+msgid "California Brown Pelican Survey"
+msgstr ""
+
+#: protocols.py:23
+msgid "PROALAS Point Count (2 Bands)"
+msgstr ""
+
+#: protocols.py:24
+msgid "PROALAS Mini-transect"
+msgstr ""
+
+#: protocols.py:25
+msgid "PROALAS Point Count (3 Bands)"
+msgstr ""
+
+#: protocols.py:26
+msgid "Orange-breasted Falcon Site Survey"
+msgstr ""
+
+#: protocols.py:27
+msgid "Audubon Coastal Bird Survey"
+msgstr ""
+
+#: protocols.py:28
+msgid "International Shorebird Survey"
+msgstr ""
+
+#: protocols.py:29
+msgid "Migratory Shorebird Protocol"
+msgstr ""
+
+#: protocols.py:30
+msgid "BirdLife Australia 20min-2ha survey"
+msgstr ""
+
+#: protocols.py:31
+msgid "BirdLife Australia 5 km radius search"
+msgstr ""
+
+#: protocols.py:32
+msgid "BirdLife Australia 500m radius search"
+msgstr ""
+
+#: protocols.py:33
+msgid "Birds 'n' Bogs Survey"
+msgstr ""
+
+#: protocols.py:34
+msgid "Breeding Bird Atlas"
+msgstr ""
+
+#: protocols.py:35
+msgid "Common Bird Survey"
+msgstr ""
+
+#: protocols.py:36
+msgid "Caribbean Martin Survey"
+msgstr ""
+
+#: protocols.py:37
+msgid "Coastal Shorebird Survey"
+msgstr ""
+
+#: protocols.py:38
+msgid "Great Texas Birding Classic"
+msgstr ""
+
+#: protocols.py:39
+msgid "Greater Gulf Refuge Waterbird Count"
+msgstr ""
+
+#: protocols.py:40
+msgid "Heron Area Count"
+msgstr ""
+
+#: protocols.py:41
+msgid "Heron Stationary Count"
+msgstr ""
+
+#: protocols.py:42
+msgid "IBA Canada"
+msgstr ""
+
+#: protocols.py:43
+msgid "LoonWatch"
+msgstr ""
+
+#: protocols.py:44
+msgid "My Yard Counts"
+msgstr ""
+
+#: protocols.py:45
+msgid "RAM--Iberian Seawatch Network"
+msgstr ""
+
+#: protocols.py:46
+msgid "Standardized Yard Count"
+msgstr ""
+
+#: protocols.py:47
+msgid "Trail Tracker"
+msgstr ""
+
+#: protocols.py:48
+msgid "Tricolored Blackbird Winter Survey"
+msgstr ""
+
+#: protocols.py:49
+msgid "Traveling - Property Specific"
+msgstr ""
+
+#: protocols.py:50
+msgid "Waterbird Count"
+msgstr ""
+
+#: protocols.py:51
+msgid "Yellow-billed Magpie Survey - General Observations"
+msgstr ""
+
+#: protocols.py:52
+msgid "Yellow-billed Magpie Survey - Traveling Count"
+msgstr ""
