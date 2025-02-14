@@ -6,4 +6,7 @@ and this project adheres to `Semantic Versioning <https://semver.org/spec/v2.0.0
 
 Latest
 ------
+
+0.0.1 (2025-02-14)
+------------------
 - Initial release to get the project started.
