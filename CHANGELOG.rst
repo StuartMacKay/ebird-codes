@@ -8,6 +8,7 @@ Latest
 ------
 * Replace PROTOCOL_TYPES with two tables to lookup protocol code from the
   (English language) name or the name from the protocol code.
+* Added lookup tables for breeding codes and names.
 
 0.0.2 (2025-02-14)
 ------------------
