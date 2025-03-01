@@ -6,6 +6,8 @@ and this project adheres to `Semantic Versioning <https://semver.org/spec/v2.0.0
 
 Latest
 ------
+* Replace PROTOCOL_TYPES with two tables to lookup protocol code from the
+  (English language) name or the name from the protocol code.
 
 0.0.2 (2025-02-14)
 ------------------
