@@ -8,195 +8,521 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-14 09:28+0000\n"
+"POT-Creation-Date: 2025-03-02 09:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: en\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: protocols.py:7
-msgid "Travelling"
+#: breeding.py:25
+msgid "Fly-over"
 msgstr ""
 
-#: protocols.py:8
-msgid "Stationary"
+#: breeding.py:26
+msgid "Species observed in breeding season in possible nesting habitat"
 msgstr ""
 
-#: protocols.py:9
-msgid "Historical"
+#: breeding.py:27
+msgid "Singing bird(s) present (or breeding calls heard)"
 msgstr ""
 
-#: protocols.py:10
+#: breeding.py:28
+msgid "Pair observed in suitable nesting habitat"
+msgstr ""
+
+#: breeding.py:29
+msgid ""
+"Registration of territorial behaviour on at least two different days a week "
+"apart at same place"
+msgstr ""
+
+#: breeding.py:30
+msgid "Courtship and display"
+msgstr ""
+
+#: breeding.py:31
+msgid "Visiting probable nest-site"
+msgstr ""
+
+#: breeding.py:32
+msgid "Agitated behaviour or anxiety calls from adults"
+msgstr ""
+
+#: breeding.py:33
+msgid "Brood patch on adult examined in the hand"
+msgstr ""
+
+#: breeding.py:34
+msgid "Nest-building or excavating of nest-hole"
+msgstr ""
+
+#: breeding.py:35
+msgid "Distraction-display or injury-feigning"
+msgstr ""
+
+#: breeding.py:36
+msgid "Used nest or eggshells found"
+msgstr ""
+
+#: breeding.py:37
+msgid "Recently fledged young"
+msgstr ""
+
+#: breeding.py:38
+msgid "Occupied nest"
+msgstr ""
+
+#: breeding.py:39
+msgid "Adult carrying a faecal sac or food for young"
+msgstr ""
+
+#: breeding.py:40
+msgid "Nests containing eggs"
+msgstr ""
+
+#: breeding.py:41
+msgid "Nests with young seen or heard"
+msgstr ""
+
+#: i18n.py:73
+msgid "Bulgarian"
+msgstr ""
+
+#: i18n.py:74
+msgid "Czech"
+msgstr ""
+
+#: i18n.py:75
+msgid "Danish"
+msgstr ""
+
+#: i18n.py:76
+msgid "German"
+msgstr ""
+
+#: i18n.py:77
+msgid "English"
+msgstr ""
+
+#: i18n.py:78
+msgid "English (Australia)"
+msgstr ""
+
+#: i18n.py:79
+msgid "English (India)"
+msgstr ""
+
+#: i18n.py:80
+msgid "English (IOC)"
+msgstr ""
+
+#: i18n.py:81
+msgid "English (Hawaii)"
+msgstr ""
+
+#: i18n.py:82
+msgid "English (Kenya)"
+msgstr ""
+
+#: i18n.py:83
+msgid "English (Malaysia)"
+msgstr ""
+
+#: i18n.py:84
+msgid "English (New Zealand)"
+msgstr ""
+
+#: i18n.py:85
+msgid "English (Philippines)"
+msgstr ""
+
+#: i18n.py:86
+msgid "English (South Africa)"
+msgstr ""
+
+#: i18n.py:87
+msgid "English (United Arab Emirates)"
+msgstr ""
+
+#: i18n.py:88
+msgid "English (Great Britain)"
+msgstr ""
+
+#: i18n.py:89
+msgid "English (United States)"
+msgstr ""
+
+#: i18n.py:90
+msgid "Spanish"
+msgstr ""
+
+#: i18n.py:91
+msgid "Spanish (Argentina)"
+msgstr ""
+
+#: i18n.py:92
+msgid "Spanish (Chile)"
+msgstr ""
+
+#: i18n.py:93
+msgid "Spanish (Costa Rica)"
+msgstr ""
+
+#: i18n.py:94
+msgid "Spanish (Cuba)"
+msgstr ""
+
+#: i18n.py:95
+msgid "Spanish (Dominican Republic)"
+msgstr ""
+
+#: i18n.py:96
+msgid "Spanish (Ecuador)"
+msgstr ""
+
+#: i18n.py:97
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: i18n.py:98
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: i18n.py:99
+msgid "Spanish (Panama)"
+msgstr ""
+
+#: i18n.py:100
+msgid "Spanish (Puerto Rico)"
+msgstr ""
+
+#: i18n.py:101
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+#: i18n.py:102
+msgid "Spanish (Venezuela)"
+msgstr ""
+
+#: i18n.py:103
+msgid "Finnish"
+msgstr ""
+
+#: i18n.py:104
+msgid "Faroese"
+msgstr ""
+
+#: i18n.py:105
+msgid "French"
+msgstr ""
+
+#: i18n.py:106
+msgid "French (AOU)"
+msgstr ""
+
+#: i18n.py:107
+msgid "French (Canada)"
+msgstr ""
+
+#: i18n.py:108
+msgid "French (Guadeloupe)"
+msgstr ""
+
+#: i18n.py:109
+msgid "French (Haiti)"
+msgstr ""
+
+#: i18n.py:110
+msgid "Haitian"
+msgstr ""
+
+#: i18n.py:111
+msgid "Croatian"
+msgstr ""
+
+#: i18n.py:112
+msgid "Hungarian"
+msgstr ""
+
+#: i18n.py:113
+msgid "Indonesian"
+msgstr ""
+
+#: i18n.py:114
+msgid "Icelandic"
+msgstr ""
+
+#: i18n.py:115
+msgid "Italian"
+msgstr ""
+
+#: i18n.py:116
+msgid "Hebrew"
+msgstr ""
+
+#: i18n.py:117
+msgid "Japanese"
+msgstr ""
+
+#: i18n.py:118
+msgid "Korean"
+msgstr ""
+
+#: i18n.py:119
+msgid "Lithuanian"
+msgstr ""
+
+#: i18n.py:120
+msgid "Latvian"
+msgstr ""
+
+#: i18n.py:121
+msgid "Malayalam"
+msgstr ""
+
+#: i18n.py:122
+msgid "Mongolian"
+msgstr ""
+
+#: i18n.py:123
+msgid "Dutch"
+msgstr ""
+
+#: i18n.py:124
+msgid "Norwegian"
+msgstr ""
+
+#: i18n.py:125
+msgid "Polish"
+msgstr ""
+
+#: i18n.py:126
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: i18n.py:127
+msgid "Portuguese (Brasil)"
+msgstr ""
+
+#: i18n.py:128
+msgid "Russian"
+msgstr ""
+
+#: i18n.py:129
+msgid "Slovenian"
+msgstr ""
+
+#: i18n.py:130
+msgid "Serbian"
+msgstr ""
+
+#: i18n.py:131
+msgid "Swedish"
+msgstr ""
+
+#: i18n.py:132
+msgid "Thai"
+msgstr ""
+
+#: i18n.py:133
+msgid "Turkish"
+msgstr ""
+
+#: i18n.py:134
+msgid "Ukrainian"
+msgstr ""
+
+#: i18n.py:135
+msgid "Chinese"
+msgstr ""
+
+#: i18n.py:136
+msgid "Chinese (Simple)"
+msgstr ""
+
+#: protocols.py:58
 msgid "Incidental"
 msgstr ""
 
-#: protocols.py:11
+#: protocols.py:59
+msgid "Stationary"
+msgstr ""
+
+#: protocols.py:60
+msgid "Travelling"
+msgstr ""
+
+#: protocols.py:61
 msgid "Area"
 msgstr ""
 
-#: protocols.py:12
-msgid "Banding"
-msgstr ""
-
-#: protocols.py:13
-msgid "Pelagic"
-msgstr ""
-
-#: protocols.py:14
-msgid "Nocturnal Flight Call Count"
-msgstr ""
-
-#: protocols.py:15
-msgid "Oiled Birds"
-msgstr ""
-
-#: protocols.py:16
-msgid "Random"
-msgstr ""
-
-#: protocols.py:17
-msgid "TNC California Waterbird Count"
-msgstr ""
-
-#: protocols.py:18
-msgid "CWC Point Count"
-msgstr ""
-
-#: protocols.py:19
-msgid "CWC Area Search"
-msgstr ""
-
-#: protocols.py:20
-msgid "CWC Travelling Count"
-msgstr ""
-
-#: protocols.py:21
-msgid "Rusty Blackbird Spring Migration Blitz"
-msgstr ""
-
-#: protocols.py:22
-msgid "California Brown Pelican Survey"
-msgstr ""
-
-#: protocols.py:23
-msgid "PROALAS Point Count (2 Bands)"
-msgstr ""
-
-#: protocols.py:24
-msgid "PROALAS Mini-transect"
-msgstr ""
-
-#: protocols.py:25
-msgid "PROALAS Point Count (3 Bands)"
-msgstr ""
-
-#: protocols.py:26
-msgid "Orange-breasted Falcon Site Survey"
-msgstr ""
-
-#: protocols.py:27
-msgid "Audubon Coastal Bird Survey"
-msgstr ""
-
-#: protocols.py:28
-msgid "International Shorebird Survey"
-msgstr ""
-
-#: protocols.py:29
-msgid "Migratory Shorebird Protocol"
-msgstr ""
-
-#: protocols.py:30
-msgid "BirdLife Australia 20min-2ha survey"
-msgstr ""
-
-#: protocols.py:31
-msgid "BirdLife Australia 5 km radius search"
-msgstr ""
-
-#: protocols.py:32
-msgid "BirdLife Australia 500m radius search"
-msgstr ""
-
-#: protocols.py:33
-msgid "Birds 'n' Bogs Survey"
-msgstr ""
-
-#: protocols.py:34
-msgid "Breeding Bird Atlas"
-msgstr ""
-
-#: protocols.py:35
-msgid "Common Bird Survey"
-msgstr ""
-
-#: protocols.py:36
-msgid "Caribbean Martin Survey"
-msgstr ""
-
-#: protocols.py:37
-msgid "Coastal Shorebird Survey"
-msgstr ""
-
-#: protocols.py:38
-msgid "Great Texas Birding Classic"
-msgstr ""
-
-#: protocols.py:39
-msgid "Greater Gulf Refuge Waterbird Count"
-msgstr ""
-
-#: protocols.py:40
-msgid "Heron Area Count"
-msgstr ""
-
-#: protocols.py:41
-msgid "Heron Stationary Count"
-msgstr ""
-
-#: protocols.py:42
-msgid "IBA Canada"
-msgstr ""
-
-#: protocols.py:43
-msgid "LoonWatch"
-msgstr ""
-
-#: protocols.py:44
-msgid "My Yard Counts"
-msgstr ""
-
-#: protocols.py:45
-msgid "RAM--Iberian Seawatch Network"
-msgstr ""
-
-#: protocols.py:46
-msgid "Standardized Yard Count"
-msgstr ""
-
-#: protocols.py:47
+#: protocols.py:62
 msgid "Trail Tracker"
 msgstr ""
 
-#: protocols.py:48
-msgid "Tricolored Blackbird Winter Survey"
+#: protocols.py:63
+msgid "Banding"
 msgstr ""
 
-#: protocols.py:49
-msgid "Traveling - Property Specific"
-msgstr ""
-
-#: protocols.py:50
+#: protocols.py:64
 msgid "Waterbird Count"
 msgstr ""
 
-#: protocols.py:51
+#: protocols.py:65
+msgid "My Yard Counts"
+msgstr ""
+
+#: protocols.py:66
+msgid "LoonWatch"
+msgstr ""
+
+#: protocols.py:67
+msgid "Standardized Yard Count"
+msgstr ""
+
+#: protocols.py:68
+msgid "Rusty Blackbird Spring Migration Blitz"
+msgstr ""
+
+#: protocols.py:69
 msgid "Yellow-billed Magpie Survey - General Observations"
 msgstr ""
 
-#: protocols.py:52
+#: protocols.py:70
 msgid "Yellow-billed Magpie Survey - Traveling Count"
+msgstr ""
+
+#: protocols.py:71
+msgid "CWC Point Count"
+msgstr ""
+
+#: protocols.py:72
+msgid "CWC Area Search"
+msgstr ""
+
+#: protocols.py:73
+msgid "Random"
+msgstr ""
+
+#: protocols.py:74
+msgid "Coastal Shorebird Survey"
+msgstr ""
+
+#: protocols.py:75
+msgid "Caribbean Martin Survey"
+msgstr ""
+
+#: protocols.py:76
+msgid "Greater Gulf Refuge Waterbird Count"
+msgstr ""
+
+#: protocols.py:77
+msgid "Oiled Birds"
+msgstr ""
+
+#: protocols.py:78
+msgid "Nocturnal Flight Call Count"
+msgstr ""
+
+#: protocols.py:79
+msgid "Heron Stationary Count"
+msgstr ""
+
+#: protocols.py:80
+msgid "Heron Area Count"
+msgstr ""
+
+#: protocols.py:81
+msgid "Great Texas Birding Classic"
+msgstr ""
+
+#: protocols.py:82
+msgid "Audubon Coastal Bird Survey"
+msgstr ""
+
+#: protocols.py:83
+msgid "TNC California Waterbird Count"
+msgstr ""
+
+#: protocols.py:84
+msgid "Pelagic"
+msgstr ""
+
+#: protocols.py:85
+msgid "IBA Canada"
+msgstr ""
+
+#: protocols.py:86
+msgid "Historical"
+msgstr ""
+
+#: protocols.py:87
+msgid "Traveling - Property Specific"
+msgstr ""
+
+#: protocols.py:88
+msgid "Breeding Bird Atlas"
+msgstr ""
+
+#: protocols.py:89
+msgid "Birds 'n' Bogs Survey"
+msgstr ""
+
+#: protocols.py:90
+msgid "Common Bird Survey"
+msgstr ""
+
+#: protocols.py:91
+msgid "RAM--Iberian Seawatch Network"
+msgstr ""
+
+#: protocols.py:92
+msgid "California Brown Pelican Survey"
+msgstr ""
+
+#: protocols.py:93
+msgid "BirdLife Australia 20min-2ha survey"
+msgstr ""
+
+#: protocols.py:94
+msgid "BirdLife Australia 500m radius search"
+msgstr ""
+
+#: protocols.py:95
+msgid "BirdLife Australia 5 km radius search"
+msgstr ""
+
+#: protocols.py:96
+msgid "PROALAS Point Count (2 Bands)"
+msgstr ""
+
+#: protocols.py:97
+msgid "International Shorebird Survey"
+msgstr ""
+
+#: protocols.py:98
+msgid "Tricolored Blackbird Winter Survey"
+msgstr ""
+
+#: protocols.py:99
+msgid "CWC Travelling Count"
+msgstr ""
+
+#: protocols.py:100
+msgid "PROALAS Mini-transect"
+msgstr ""
+
+#: protocols.py:101
+msgid "PROALAS Point Count (3 Bands)"
+msgstr ""
+
+#: protocols.py:102
+msgid "Orange-breasted Falcon Site Survey"
+msgstr ""
+
+#: protocols.py:103
+msgid "Migratory Shorebird Protocol"
 msgstr ""
